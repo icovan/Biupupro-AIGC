@@ -234,5 +234,6 @@ All rights reserved.
 
 如有疑问或建议，可通过 [官网](https://pu.biunow.cn/) 或项目 Issues 联系。
 
-![微信](docs/ScreenShot_2026-03-11_000543_180.png)
+<img width="182" height="180" alt="image" src="https://github.com/user-attachments/assets/97ad8dce-2de1-488a-99d2-18db4bb10b3d" />
+
 
